@@ -1,0 +1,1 @@
+Projeto passado pelo Senai onde a ideia era fazermos um aplicativo sobre troca de habilidades. Os usuários da plataforma poderiam se encontrar(virtualmente ou presencialmente) para trocarem conhecimentos sobre diferentes áreas, ajudando de forma gratuita um ao outro. Também há uma página HTML apresentando nosso grupo.
